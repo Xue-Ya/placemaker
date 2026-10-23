@@ -38668,5 +38668,45 @@
     "key": "Placemaker.AddOn.TeaHouse.Preset.pavilion",
     "en": "Pavilion",
     "zh": "会所"
+  },
+  {
+    "key": "Placemaker.Primary.Build",
+    "en": "Build & keep area",
+    "zh": "建造并保留区域"
+  },
+  {
+    "key": "Placemaker.Reason.AcknowledgePermanent",
+    "en": "Tick OK to build",
+    "zh": "勾选“确定”以建造"
+  },
+  {
+    "key": "Placemaker.UI.Build.Close",
+    "en": "Build & close",
+    "zh": "建造并关闭"
+  },
+  {
+    "key": "Placemaker.UI.Build.CloseTip",
+    "en": "Builds it, then closes Placemaker.",
+    "zh": "完成建造后关闭 Placemaker。"
+  },
+  {
+    "key": "Placemaker.UI.Entrances.Add",
+    "en": "Add entrances",
+    "zh": "添加入口"
+  },
+  {
+    "key": "Placemaker.UI.Review.AckFirst",
+    "en": "Tick OK to build",
+    "zh": "勾选“确定”以建造"
+  },
+  {
+    "key": "Placemaker.UI.Review.AckTip",
+    "en": "Some changes stay after you remove the build (the amber tags). Tick to allow them.",
+    "zh": "部分改动在移除建造内容后仍会保留（以琥珀色标签标出）。勾选以允许这些改动。"
+  },
+  {
+    "key": "Placemaker.UI.Rules.SmartTip",
+    "en": "On: the brush stops at what you tick below. Off: it paints over everything.",
+    "zh": "开启：笔刷遇到下方已勾选的对象类型时会停止。关闭：笔刷会覆盖所有内容。"
   }
 ]
